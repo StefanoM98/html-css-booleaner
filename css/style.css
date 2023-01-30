@@ -9,6 +9,7 @@
     background-color: #639EF8; 
     width: auto;
     
+    
 }
 .logo{
     height: 70px;
@@ -83,5 +84,37 @@ td{
     width: 33%;
 }
 
+.last-text{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.3rem;
+    color: gray;
+}
+
+.monitor{
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.graph{
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 20px;
+}
 
 
