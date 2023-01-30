@@ -16,10 +16,12 @@
     margin-top: 60px;
     margin-bottom: 20px;
     margin-left: 20px;
+    padding-left: 50px;
 }
 
 main{
     margin-left: 20px;
+    padding: 50px;
 }
 
 h1{
@@ -82,6 +84,10 @@ table{
 
 td{
     width: 33%;
+}
+
+footer{
+    padding-left: 50px;
 }
 
 .last-text{
