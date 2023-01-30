@@ -16,3 +16,26 @@
     margin-bottom: 20px;
     margin-left: 20px;
 }
+
+main{
+    margin-left: 10px;
+}
+
+h1{
+    font-size: 3rem;
+    margin-top: 20px;
+}
+
+.subtext{
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.date{
+    font-size: 1rem;
+}
+
+.writer{
+    color: #639EF8;
+}
+
